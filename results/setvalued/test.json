@@ -1,0 +1,1454 @@
+{
+ "tasks": {
+  "jecqa": {
+   "free": {
+    "n": 1000,
+    "cost_per_1000": 0.0,
+    "views": 9,
+    "rows": {
+     "GLM-4-9B-0414 direct": {
+      "exact": 38.2,
+      "jaccard": 62.49,
+      "micro_f1": 73.15
+     },
+     "Qwen3-8B direct": {
+      "exact": 36.7,
+      "jaccard": 58.0,
+      "micro_f1": 69.28
+     },
+     "Qwen3.5-4B direct": {
+      "exact": 34.6,
+      "jaccard": 62.65,
+      "micro_f1": 74.08
+     },
+     "set plurality": {
+      "exact": 43.6,
+      "jaccard": 64.89,
+      "micro_f1": 74.92
+     },
+     "unit vote": {
+      "exact": 38.8,
+      "jaccard": 59.25,
+      "micro_f1": 70.19
+     },
+     "unit vote, tuned threshold": {
+      "exact": 33.6,
+      "jaccard": 61.31,
+      "micro_f1": 72.51
+     },
+     "Dawid-Skene": {
+      "exact": 37.9,
+      "jaccard": 58.68,
+      "micro_f1": 69.07
+     },
+     "GLM-4-9B-0414 calibrated": {
+      "exact": 39.4,
+      "jaccard": 61.58,
+      "micro_f1": 72.78
+     },
+     "Qwen3-8B calibrated": {
+      "exact": 38.0,
+      "jaccard": 58.13,
+      "micro_f1": 69.42
+     },
+     "Qwen3.5-4B calibrated": {
+      "exact": 41.8,
+      "jaccard": 61.78,
+      "micro_f1": 72.81
+     },
+     "fusion": {
+      "exact": 46.7,
+      "jaccard": 64.53,
+      "micro_f1": 75.17
+     }
+    },
+    "vs_best_rule": [
+     "set plurality",
+     [
+      3.1,
+      1.1,
+      5.1
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3.5-4B calibrated",
+     [
+      4.9,
+      2.2,
+      7.5
+     ]
+    ]
+   },
+   "inexpensive": {
+    "n": 1000,
+    "cost_per_1000": 1.044,
+    "views": 4,
+    "rows": {
+     "Qwen3.5-122B-A10B direct": {
+      "exact": 67.6,
+      "jaccard": 81.96,
+      "micro_f1": 87.66
+     },
+     "set plurality": {
+      "exact": 69.1,
+      "jaccard": 82.52,
+      "micro_f1": 88.05
+     },
+     "unit vote": {
+      "exact": 69.6,
+      "jaccard": 82.78,
+      "micro_f1": 88.22
+     },
+     "unit vote, tuned threshold": {
+      "exact": 69.5,
+      "jaccard": 82.68,
+      "micro_f1": 88.17
+     },
+     "Dawid-Skene": {
+      "exact": 69.5,
+      "jaccard": 82.68,
+      "micro_f1": 88.17
+     },
+     "fusion": {
+      "exact": 69.8,
+      "jaccard": 82.76,
+      "micro_f1": 88.13
+     }
+    },
+    "vs_best_rule": [
+     "unit vote",
+     [
+      0.2,
+      -0.7,
+      1.1
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3.5-122B-A10B direct",
+     [
+      2.2,
+      0.7,
+      3.8
+     ]
+    ]
+   },
+   "free + inexpensive": {
+    "n": 1000,
+    "cost_per_1000": 1.044,
+    "views": 13,
+    "rows": {
+     "GLM-4-9B-0414 direct": {
+      "exact": 38.2,
+      "jaccard": 62.49,
+      "micro_f1": 73.15
+     },
+     "Qwen3-8B direct": {
+      "exact": 36.7,
+      "jaccard": 58.0,
+      "micro_f1": 69.28
+     },
+     "Qwen3.5-122B-A10B direct": {
+      "exact": 67.6,
+      "jaccard": 81.96,
+      "micro_f1": 87.66
+     },
+     "Qwen3.5-4B direct": {
+      "exact": 34.6,
+      "jaccard": 62.65,
+      "micro_f1": 74.08
+     },
+     "set plurality": {
+      "exact": 68.0,
+      "jaccard": 81.72,
+      "micro_f1": 87.5
+     },
+     "unit vote": {
+      "exact": 65.9,
+      "jaccard": 80.65,
+      "micro_f1": 86.41
+     },
+     "unit vote, tuned threshold": {
+      "exact": 49.8,
+      "jaccard": 72.5,
+      "micro_f1": 81.32
+     },
+     "Dawid-Skene": {
+      "exact": 68.3,
+      "jaccard": 82.17,
+      "micro_f1": 87.79
+     },
+     "GLM-4-9B-0414 calibrated": {
+      "exact": 39.4,
+      "jaccard": 61.58,
+      "micro_f1": 72.78
+     },
+     "Qwen3-8B calibrated": {
+      "exact": 38.0,
+      "jaccard": 58.13,
+      "micro_f1": 69.42
+     },
+     "Qwen3.5-122B-A10B calibrated": {
+      "exact": 69.8,
+      "jaccard": 82.76,
+      "micro_f1": 88.13
+     },
+     "Qwen3.5-4B calibrated": {
+      "exact": 41.8,
+      "jaccard": 61.78,
+      "micro_f1": 72.81
+     },
+     "fusion": {
+      "exact": 69.5,
+      "jaccard": 82.52,
+      "micro_f1": 87.95
+     }
+    },
+    "vs_best_rule": [
+     "Dawid-Skene",
+     [
+      1.2,
+      0.0,
+      2.5
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3.5-122B-A10B calibrated",
+     [
+      -0.3,
+      -1.0,
+      0.4
+     ]
+    ]
+   },
+   "frontier": {
+    "n": 600,
+    "cost_per_1000": 3.515,
+    "views": 2,
+    "rows": {
+     "DeepSeek-V4-Pro direct": {
+      "exact": 62.17,
+      "jaccard": 78.67,
+      "micro_f1": 84.52
+     },
+     "Kimi-K2.6 direct": {
+      "exact": 75.33,
+      "jaccard": 86.56,
+      "micro_f1": 90.77
+     },
+     "set plurality": {
+      "exact": 75.5,
+      "jaccard": 86.78,
+      "micro_f1": 90.91
+     },
+     "unit vote": {
+      "exact": 75.5,
+      "jaccard": 86.78,
+      "micro_f1": 90.91
+     },
+     "unit vote, tuned threshold": {
+      "exact": 65.17,
+      "jaccard": 83.0,
+      "micro_f1": 88.61
+     },
+     "Dawid-Skene": {
+      "exact": 68.0,
+      "jaccard": 81.61,
+      "micro_f1": 86.55
+     },
+     "DeepSeek-V4-Pro calibrated": {
+      "exact": 62.17,
+      "jaccard": 78.67,
+      "micro_f1": 84.52
+     },
+     "Kimi-K2.6 calibrated": {
+      "exact": 75.33,
+      "jaccard": 86.76,
+      "micro_f1": 90.89
+     },
+     "fusion": {
+      "exact": 74.83,
+      "jaccard": 86.46,
+      "micro_f1": 90.6
+     }
+    },
+    "vs_best_rule": [
+     "set plurality",
+     [
+      -0.67,
+      -2.0,
+      0.5
+     ]
+    ],
+    "vs_best_single": [
+     "Kimi-K2.6 calibrated",
+     [
+      -0.5,
+      -1.83,
+      0.67
+     ]
+    ]
+   },
+   "all": {
+    "n": 600,
+    "cost_per_1000": 4.563,
+    "views": 15,
+    "rows": {
+     "DeepSeek-V4-Pro direct": {
+      "exact": 62.17,
+      "jaccard": 78.67,
+      "micro_f1": 84.52
+     },
+     "GLM-4-9B-0414 direct": {
+      "exact": 37.0,
+      "jaccard": 62.1,
+      "micro_f1": 72.8
+     },
+     "Kimi-K2.6 direct": {
+      "exact": 75.33,
+      "jaccard": 86.56,
+      "micro_f1": 90.77
+     },
+     "Qwen3-8B direct": {
+      "exact": 36.0,
+      "jaccard": 57.29,
+      "micro_f1": 68.66
+     },
+     "Qwen3.5-122B-A10B direct": {
+      "exact": 66.67,
+      "jaccard": 81.47,
+      "micro_f1": 87.3
+     },
+     "Qwen3.5-4B direct": {
+      "exact": 35.67,
+      "jaccard": 63.03,
+      "micro_f1": 74.06
+     },
+     "set plurality": {
+      "exact": 69.83,
+      "jaccard": 82.75,
+      "micro_f1": 88.14
+     },
+     "unit vote": {
+      "exact": 68.67,
+      "jaccard": 82.97,
+      "micro_f1": 88.2
+     },
+     "unit vote, tuned threshold": {
+      "exact": 60.83,
+      "jaccard": 78.86,
+      "micro_f1": 85.96
+     },
+     "Dawid-Skene": {
+      "exact": 68.67,
+      "jaccard": 82.71,
+      "micro_f1": 88.32
+     },
+     "DeepSeek-V4-Pro calibrated": {
+      "exact": 62.17,
+      "jaccard": 78.67,
+      "micro_f1": 84.52
+     },
+     "GLM-4-9B-0414 calibrated": {
+      "exact": 38.5,
+      "jaccard": 60.21,
+      "micro_f1": 71.76
+     },
+     "Kimi-K2.6 calibrated": {
+      "exact": 75.33,
+      "jaccard": 86.76,
+      "micro_f1": 90.89
+     },
+     "Qwen3-8B calibrated": {
+      "exact": 37.17,
+      "jaccard": 57.5,
+      "micro_f1": 68.84
+     },
+     "Qwen3.5-122B-A10B calibrated": {
+      "exact": 68.0,
+      "jaccard": 81.67,
+      "micro_f1": 87.35
+     },
+     "Qwen3.5-4B calibrated": {
+      "exact": 41.0,
+      "jaccard": 61.78,
+      "micro_f1": 72.93
+     },
+     "fusion": {
+      "exact": 71.33,
+      "jaccard": 84.35,
+      "micro_f1": 89.16
+     }
+    },
+    "vs_best_rule": [
+     "set plurality",
+     [
+      1.5,
+      -0.84,
+      3.83
+     ]
+    ],
+    "vs_best_single": [
+     "Kimi-K2.6 calibrated",
+     [
+      -4.0,
+      -6.83,
+      -1.0
+     ]
+    ]
+   }
+  },
+  "tweet_emotion": {
+   "free": {
+    "n": 1000,
+    "cost_per_1000": 0.0,
+    "views": 9,
+    "rows": {
+     "GLM-4-9B-0414 direct": {
+      "exact": 11.2,
+      "jaccard": 43.22,
+      "micro_f1": 55.73
+     },
+     "Qwen3-8B direct": {
+      "exact": 17.4,
+      "jaccard": 50.74,
+      "micro_f1": 61.59
+     },
+     "Qwen3.5-4B direct": {
+      "exact": 14.6,
+      "jaccard": 43.1,
+      "micro_f1": 54.27
+     },
+     "set plurality": {
+      "exact": 13.7,
+      "jaccard": 44.5,
+      "micro_f1": 56.65
+     },
+     "unit vote": {
+      "exact": 15.8,
+      "jaccard": 47.14,
+      "micro_f1": 58.98
+     },
+     "unit vote, tuned threshold": {
+      "exact": 15.6,
+      "jaccard": 52.58,
+      "micro_f1": 64.89
+     },
+     "Dawid-Skene": {
+      "exact": 15.9,
+      "jaccard": 50.64,
+      "micro_f1": 63.13
+     },
+     "GLM-4-9B-0414 calibrated": {
+      "exact": 12.6,
+      "jaccard": 47.91,
+      "micro_f1": 60.42
+     },
+     "Qwen3-8B calibrated": {
+      "exact": 14.9,
+      "jaccard": 51.93,
+      "micro_f1": 63.62
+     },
+     "Qwen3.5-4B calibrated": {
+      "exact": 14.8,
+      "jaccard": 46.74,
+      "micro_f1": 55.97
+     },
+     "fusion": {
+      "exact": 17.0,
+      "jaccard": 53.72,
+      "micro_f1": 65.35
+     }
+    },
+    "vs_best_rule": [
+     "unit vote, tuned threshold",
+     [
+      1.14,
+      0.14,
+      2.19
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3-8B calibrated",
+     [
+      1.78,
+      0.73,
+      2.77
+     ]
+    ]
+   },
+   "inexpensive": {
+    "n": 1000,
+    "cost_per_1000": 1.524,
+    "views": 4,
+    "rows": {
+     "Qwen3.5-122B-A10B direct": {
+      "exact": 7.8,
+      "jaccard": 38.17,
+      "micro_f1": 49.21
+     },
+     "set plurality": {
+      "exact": 10.1,
+      "jaccard": 41.52,
+      "micro_f1": 53.4
+     },
+     "unit vote": {
+      "exact": 9.7,
+      "jaccard": 40.82,
+      "micro_f1": 52.49
+     },
+     "unit vote, tuned threshold": {
+      "exact": 13.4,
+      "jaccard": 45.86,
+      "micro_f1": 57.82
+     },
+     "Dawid-Skene": {
+      "exact": 10.0,
+      "jaccard": 41.37,
+      "micro_f1": 53.17
+     },
+     "fusion": {
+      "exact": 12.8,
+      "jaccard": 45.46,
+      "micro_f1": 56.18
+     }
+    },
+    "vs_best_rule": [
+     "unit vote, tuned threshold",
+     [
+      -0.41,
+      -0.86,
+      0.02
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3.5-122B-A10B direct",
+     [
+      7.29,
+      5.97,
+      8.64
+     ]
+    ]
+   },
+   "free + inexpensive": {
+    "n": 1000,
+    "cost_per_1000": 1.524,
+    "views": 13,
+    "rows": {
+     "GLM-4-9B-0414 direct": {
+      "exact": 11.2,
+      "jaccard": 43.22,
+      "micro_f1": 55.73
+     },
+     "Qwen3-8B direct": {
+      "exact": 17.4,
+      "jaccard": 50.74,
+      "micro_f1": 61.59
+     },
+     "Qwen3.5-122B-A10B direct": {
+      "exact": 7.8,
+      "jaccard": 38.17,
+      "micro_f1": 49.21
+     },
+     "Qwen3.5-4B direct": {
+      "exact": 14.6,
+      "jaccard": 43.1,
+      "micro_f1": 54.27
+     },
+     "set plurality": {
+      "exact": 11.9,
+      "jaccard": 42.7,
+      "micro_f1": 54.56
+     },
+     "unit vote": {
+      "exact": 13.3,
+      "jaccard": 44.97,
+      "micro_f1": 56.72
+     },
+     "unit vote, tuned threshold": {
+      "exact": 16.7,
+      "jaccard": 52.23,
+      "micro_f1": 64.6
+     },
+     "Dawid-Skene": {
+      "exact": 15.8,
+      "jaccard": 49.9,
+      "micro_f1": 62.19
+     },
+     "GLM-4-9B-0414 calibrated": {
+      "exact": 12.6,
+      "jaccard": 47.91,
+      "micro_f1": 60.42
+     },
+     "Qwen3-8B calibrated": {
+      "exact": 14.9,
+      "jaccard": 51.93,
+      "micro_f1": 63.62
+     },
+     "Qwen3.5-122B-A10B calibrated": {
+      "exact": 12.8,
+      "jaccard": 45.46,
+      "micro_f1": 56.18
+     },
+     "Qwen3.5-4B calibrated": {
+      "exact": 14.8,
+      "jaccard": 46.74,
+      "micro_f1": 55.97
+     },
+     "fusion": {
+      "exact": 17.2,
+      "jaccard": 53.41,
+      "micro_f1": 65.03
+     }
+    },
+    "vs_best_rule": [
+     "unit vote, tuned threshold",
+     [
+      1.18,
+      0.05,
+      2.35
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3-8B calibrated",
+     [
+      1.48,
+      0.32,
+      2.53
+     ]
+    ]
+   },
+   "frontier": {
+    "n": 600,
+    "cost_per_1000": 3.047,
+    "views": 2,
+    "rows": {
+     "DeepSeek-V4-Pro direct": {
+      "exact": 15.17,
+      "jaccard": 47.3,
+      "micro_f1": 58.89
+     },
+     "Kimi-K2.6 direct": {
+      "exact": 9.67,
+      "jaccard": 42.79,
+      "micro_f1": 55.8
+     },
+     "set plurality": {
+      "exact": 15.17,
+      "jaccard": 47.36,
+      "micro_f1": 58.93
+     },
+     "unit vote": {
+      "exact": 15.17,
+      "jaccard": 47.36,
+      "micro_f1": 58.93
+     },
+     "unit vote, tuned threshold": {
+      "exact": 11.83,
+      "jaccard": 47.63,
+      "micro_f1": 60.2
+     },
+     "Dawid-Skene": {
+      "exact": 11.83,
+      "jaccard": 47.65,
+      "micro_f1": 60.22
+     },
+     "DeepSeek-V4-Pro calibrated": {
+      "exact": 15.17,
+      "jaccard": 47.33,
+      "micro_f1": 58.8
+     },
+     "Kimi-K2.6 calibrated": {
+      "exact": 9.67,
+      "jaccard": 42.79,
+      "micro_f1": 55.8
+     },
+     "fusion": {
+      "exact": 11.67,
+      "jaccard": 47.64,
+      "micro_f1": 60.11
+     }
+    },
+    "vs_best_rule": [
+     "Dawid-Skene",
+     [
+      -0.0,
+      -0.17,
+      0.17
+     ]
+    ],
+    "vs_best_single": [
+     "DeepSeek-V4-Pro calibrated",
+     [
+      0.31,
+      -0.94,
+      1.54
+     ]
+    ]
+   },
+   "all": {
+    "n": 600,
+    "cost_per_1000": 4.572,
+    "views": 15,
+    "rows": {
+     "DeepSeek-V4-Pro direct": {
+      "exact": 15.17,
+      "jaccard": 47.3,
+      "micro_f1": 58.89
+     },
+     "GLM-4-9B-0414 direct": {
+      "exact": 10.0,
+      "jaccard": 42.7,
+      "micro_f1": 55.47
+     },
+     "Kimi-K2.6 direct": {
+      "exact": 9.67,
+      "jaccard": 42.79,
+      "micro_f1": 55.8
+     },
+     "Qwen3-8B direct": {
+      "exact": 16.83,
+      "jaccard": 49.98,
+      "micro_f1": 60.69
+     },
+     "Qwen3.5-122B-A10B direct": {
+      "exact": 7.33,
+      "jaccard": 37.61,
+      "micro_f1": 48.71
+     },
+     "Qwen3.5-4B direct": {
+      "exact": 13.5,
+      "jaccard": 42.29,
+      "micro_f1": 53.57
+     },
+     "set plurality": {
+      "exact": 11.17,
+      "jaccard": 43.04,
+      "micro_f1": 55.02
+     },
+     "unit vote": {
+      "exact": 12.0,
+      "jaccard": 44.53,
+      "micro_f1": 56.44
+     },
+     "unit vote, tuned threshold": {
+      "exact": 16.33,
+      "jaccard": 52.84,
+      "micro_f1": 65.04
+     },
+     "Dawid-Skene": {
+      "exact": 16.17,
+      "jaccard": 50.71,
+      "micro_f1": 62.95
+     },
+     "DeepSeek-V4-Pro calibrated": {
+      "exact": 15.17,
+      "jaccard": 47.33,
+      "micro_f1": 58.8
+     },
+     "GLM-4-9B-0414 calibrated": {
+      "exact": 10.67,
+      "jaccard": 47.47,
+      "micro_f1": 60.46
+     },
+     "Kimi-K2.6 calibrated": {
+      "exact": 9.67,
+      "jaccard": 42.79,
+      "micro_f1": 55.8
+     },
+     "Qwen3-8B calibrated": {
+      "exact": 13.67,
+      "jaccard": 51.74,
+      "micro_f1": 63.44
+     },
+     "Qwen3.5-122B-A10B calibrated": {
+      "exact": 11.83,
+      "jaccard": 44.97,
+      "micro_f1": 55.71
+     },
+     "Qwen3.5-4B calibrated": {
+      "exact": 14.0,
+      "jaccard": 46.74,
+      "micro_f1": 55.9
+     },
+     "fusion": {
+      "exact": 18.17,
+      "jaccard": 54.76,
+      "micro_f1": 66.02
+     }
+    },
+    "vs_best_rule": [
+     "unit vote, tuned threshold",
+     [
+      1.92,
+      0.37,
+      3.57
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3-8B calibrated",
+     [
+      3.03,
+      1.28,
+      4.67
+     ]
+    ]
+   }
+  },
+  "tweet_topic": {
+   "free": {
+    "n": 1000,
+    "cost_per_1000": 0.0,
+    "views": 9,
+    "rows": {
+     "GLM-4-9B-0414 direct": {
+      "exact": 46.9,
+      "jaccard": 66.67,
+      "micro_f1": 69.76
+     },
+     "Qwen3-8B direct": {
+      "exact": 42.0,
+      "jaccard": 64.26,
+      "micro_f1": 67.11
+     },
+     "Qwen3.5-4B direct": {
+      "exact": 47.5,
+      "jaccard": 66.26,
+      "micro_f1": 69.39
+     },
+     "set plurality": {
+      "exact": 48.4,
+      "jaccard": 67.99,
+      "micro_f1": 71.58
+     },
+     "unit vote": {
+      "exact": 47.4,
+      "jaccard": 67.89,
+      "micro_f1": 72.07
+     },
+     "unit vote, tuned threshold": {
+      "exact": 44.4,
+      "jaccard": 67.49,
+      "micro_f1": 72.45
+     },
+     "Dawid-Skene": {
+      "exact": 44.6,
+      "jaccard": 67.45,
+      "micro_f1": 72.17
+     },
+     "GLM-4-9B-0414 calibrated": {
+      "exact": 36.4,
+      "jaccard": 61.41,
+      "micro_f1": 66.32
+     },
+     "Qwen3-8B calibrated": {
+      "exact": 39.7,
+      "jaccard": 63.89,
+      "micro_f1": 69.14
+     },
+     "Qwen3.5-4B calibrated": {
+      "exact": 45.1,
+      "jaccard": 66.95,
+      "micro_f1": 70.18
+     },
+     "fusion": {
+      "exact": 44.7,
+      "jaccard": 67.2,
+      "micro_f1": 71.73
+     }
+    },
+    "vs_best_rule": [
+     "set plurality",
+     [
+      -0.79,
+      -2.08,
+      0.55
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3.5-4B calibrated",
+     [
+      0.26,
+      -1.11,
+      1.59
+     ]
+    ]
+   },
+   "inexpensive": {
+    "n": 1000,
+    "cost_per_1000": 2.6,
+    "views": 4,
+    "rows": {
+     "Qwen3.5-122B-A10B direct": {
+      "exact": 48.7,
+      "jaccard": 67.15,
+      "micro_f1": 69.93
+     },
+     "set plurality": {
+      "exact": 48.4,
+      "jaccard": 68.24,
+      "micro_f1": 71.93
+     },
+     "unit vote": {
+      "exact": 48.9,
+      "jaccard": 68.01,
+      "micro_f1": 71.26
+     },
+     "unit vote, tuned threshold": {
+      "exact": 45.1,
+      "jaccard": 67.27,
+      "micro_f1": 71.85
+     },
+     "Dawid-Skene": {
+      "exact": 48.4,
+      "jaccard": 68.24,
+      "micro_f1": 71.91
+     },
+     "fusion": {
+      "exact": 48.3,
+      "jaccard": 68.24,
+      "micro_f1": 72.06
+     }
+    },
+    "vs_best_rule": [
+     "set plurality",
+     [
+      -0.0,
+      -0.38,
+      0.38
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3.5-122B-A10B direct",
+     [
+      1.08,
+      -0.1,
+      2.32
+     ]
+    ]
+   },
+   "free + inexpensive": {
+    "n": 1000,
+    "cost_per_1000": 2.6,
+    "views": 13,
+    "rows": {
+     "GLM-4-9B-0414 direct": {
+      "exact": 46.9,
+      "jaccard": 66.67,
+      "micro_f1": 69.76
+     },
+     "Qwen3-8B direct": {
+      "exact": 42.0,
+      "jaccard": 64.26,
+      "micro_f1": 67.11
+     },
+     "Qwen3.5-122B-A10B direct": {
+      "exact": 48.7,
+      "jaccard": 67.15,
+      "micro_f1": 69.93
+     },
+     "Qwen3.5-4B direct": {
+      "exact": 47.5,
+      "jaccard": 66.26,
+      "micro_f1": 69.39
+     },
+     "set plurality": {
+      "exact": 48.3,
+      "jaccard": 67.96,
+      "micro_f1": 71.57
+     },
+     "unit vote": {
+      "exact": 48.2,
+      "jaccard": 68.16,
+      "micro_f1": 71.92
+     },
+     "unit vote, tuned threshold": {
+      "exact": 44.9,
+      "jaccard": 67.9,
+      "micro_f1": 72.74
+     },
+     "Dawid-Skene": {
+      "exact": 46.0,
+      "jaccard": 68.34,
+      "micro_f1": 72.83
+     },
+     "GLM-4-9B-0414 calibrated": {
+      "exact": 36.4,
+      "jaccard": 61.41,
+      "micro_f1": 66.32
+     },
+     "Qwen3-8B calibrated": {
+      "exact": 39.7,
+      "jaccard": 63.89,
+      "micro_f1": 69.14
+     },
+     "Qwen3.5-122B-A10B calibrated": {
+      "exact": 48.3,
+      "jaccard": 68.24,
+      "micro_f1": 72.06
+     },
+     "Qwen3.5-4B calibrated": {
+      "exact": 45.1,
+      "jaccard": 66.95,
+      "micro_f1": 70.18
+     },
+     "fusion": {
+      "exact": 44.9,
+      "jaccard": 67.64,
+      "micro_f1": 72.14
+     }
+    },
+    "vs_best_rule": [
+     "Dawid-Skene",
+     [
+      -0.71,
+      -1.52,
+      0.12
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3.5-122B-A10B calibrated",
+     [
+      -0.6,
+      -1.89,
+      0.76
+     ]
+    ]
+   },
+   "frontier": {
+    "n": 600,
+    "cost_per_1000": 4.473,
+    "views": 2,
+    "rows": {
+     "DeepSeek-V4-Pro direct": {
+      "exact": 44.5,
+      "jaccard": 67.17,
+      "micro_f1": 71.6
+     },
+     "Kimi-K2.6 direct": {
+      "exact": 40.67,
+      "jaccard": 64.63,
+      "micro_f1": 70.3
+     },
+     "set plurality": {
+      "exact": 40.67,
+      "jaccard": 64.63,
+      "micro_f1": 70.3
+     },
+     "unit vote": {
+      "exact": 40.67,
+      "jaccard": 64.63,
+      "micro_f1": 70.3
+     },
+     "unit vote, tuned threshold": {
+      "exact": 46.67,
+      "jaccard": 67.18,
+      "micro_f1": 70.94
+     },
+     "Dawid-Skene": {
+      "exact": 40.17,
+      "jaccard": 65.41,
+      "micro_f1": 70.96
+     },
+     "DeepSeek-V4-Pro calibrated": {
+      "exact": 44.5,
+      "jaccard": 67.17,
+      "micro_f1": 71.6
+     },
+     "Kimi-K2.6 calibrated": {
+      "exact": 40.67,
+      "jaccard": 64.63,
+      "micro_f1": 70.3
+     },
+     "fusion": {
+      "exact": 46.33,
+      "jaccard": 67.44,
+      "micro_f1": 71.15
+     }
+    },
+    "vs_best_rule": [
+     "unit vote, tuned threshold",
+     [
+      0.26,
+      -0.28,
+      0.82
+     ]
+    ],
+    "vs_best_single": [
+     "DeepSeek-V4-Pro calibrated",
+     [
+      0.27,
+      -1.28,
+      1.84
+     ]
+    ]
+   },
+   "all": {
+    "n": 600,
+    "cost_per_1000": 7.059,
+    "views": 15,
+    "rows": {
+     "DeepSeek-V4-Pro direct": {
+      "exact": 44.5,
+      "jaccard": 67.17,
+      "micro_f1": 71.6
+     },
+     "GLM-4-9B-0414 direct": {
+      "exact": 45.67,
+      "jaccard": 65.9,
+      "micro_f1": 69.31
+     },
+     "Kimi-K2.6 direct": {
+      "exact": 40.67,
+      "jaccard": 64.63,
+      "micro_f1": 70.3
+     },
+     "Qwen3-8B direct": {
+      "exact": 41.33,
+      "jaccard": 63.83,
+      "micro_f1": 67.09
+     },
+     "Qwen3.5-122B-A10B direct": {
+      "exact": 48.17,
+      "jaccard": 66.71,
+      "micro_f1": 69.34
+     },
+     "Qwen3.5-4B direct": {
+      "exact": 46.5,
+      "jaccard": 65.43,
+      "micro_f1": 68.54
+     },
+     "set plurality": {
+      "exact": 46.83,
+      "jaccard": 67.33,
+      "micro_f1": 71.01
+     },
+     "unit vote": {
+      "exact": 47.33,
+      "jaccard": 68.01,
+      "micro_f1": 71.63
+     },
+     "unit vote, tuned threshold": {
+      "exact": 46.83,
+      "jaccard": 68.47,
+      "micro_f1": 73.04
+     },
+     "Dawid-Skene": {
+      "exact": 44.83,
+      "jaccard": 67.95,
+      "micro_f1": 72.82
+     },
+     "DeepSeek-V4-Pro calibrated": {
+      "exact": 44.5,
+      "jaccard": 67.17,
+      "micro_f1": 71.6
+     },
+     "GLM-4-9B-0414 calibrated": {
+      "exact": 40.0,
+      "jaccard": 63.42,
+      "micro_f1": 67.42
+     },
+     "Kimi-K2.6 calibrated": {
+      "exact": 40.67,
+      "jaccard": 64.63,
+      "micro_f1": 70.3
+     },
+     "Qwen3-8B calibrated": {
+      "exact": 40.17,
+      "jaccard": 63.79,
+      "micro_f1": 68.97
+     },
+     "Qwen3.5-122B-A10B calibrated": {
+      "exact": 49.0,
+      "jaccard": 68.4,
+      "micro_f1": 71.74
+     },
+     "Qwen3.5-4B calibrated": {
+      "exact": 44.83,
+      "jaccard": 66.13,
+      "micro_f1": 68.84
+     },
+     "fusion": {
+      "exact": 46.5,
+      "jaccard": 68.03,
+      "micro_f1": 72.1
+     }
+    },
+    "vs_best_rule": [
+     "unit vote, tuned threshold",
+     [
+      -0.44,
+      -1.41,
+      0.53
+     ]
+    ],
+    "vs_best_single": [
+     "Qwen3.5-122B-A10B calibrated",
+     [
+      -0.37,
+      -1.95,
+      1.26
+     ]
+    ]
+   }
+  }
+ },
+ "selection": {
+  "jecqa": {
+   "gold_labels_per_item": 1.9,
+   "Qwen3.5-4B": {
+    "n": 1000,
+    "labels_per_item": 2.04,
+    "precision": 71.4,
+    "recall": 76.9,
+    "exact": 34.6,
+    "jaccard": 62.65,
+    "micro_f1": 74.08
+   },
+   "Qwen3-8B": {
+    "n": 1000,
+    "labels_per_item": 1.86,
+    "precision": 70.0,
+    "recall": 68.6,
+    "exact": 36.7,
+    "jaccard": 58.0,
+    "micro_f1": 69.28
+   },
+   "GLM-4-9B-0414": {
+    "n": 1000,
+    "labels_per_item": 2.03,
+    "precision": 70.7,
+    "recall": 75.8,
+    "exact": 38.2,
+    "jaccard": 62.49,
+    "micro_f1": 73.15
+   },
+   "Qwen3.5-122B-A10B": {
+    "n": 1000,
+    "labels_per_item": 1.9,
+    "precision": 87.7,
+    "recall": 87.6,
+    "exact": 67.6,
+    "jaccard": 81.96,
+    "micro_f1": 87.66
+   },
+   "DeepSeek-V4-Pro": {
+    "n": 600,
+    "labels_per_item": 1.91,
+    "precision": 85.3,
+    "recall": 83.8,
+    "exact": 62.17,
+    "jaccard": 78.67,
+    "micro_f1": 84.52
+   },
+   "Kimi-K2.6": {
+    "n": 600,
+    "labels_per_item": 1.96,
+    "precision": 90.5,
+    "recall": 91.1,
+    "exact": 75.33,
+    "jaccard": 86.56,
+    "micro_f1": 90.77
+   },
+   "fusion": {
+    "n": 1000,
+    "labels_per_item": 1.87,
+    "precision": 88.6,
+    "recall": 87.3,
+    "exact": 69.5,
+    "jaccard": 82.52,
+    "micro_f1": 87.95
+   }
+  },
+  "tweet_emotion": {
+   "gold_labels_per_item": 2.49,
+   "Qwen3.5-4B": {
+    "n": 1000,
+    "labels_per_item": 1.37,
+    "precision": 76.3,
+    "recall": 42.1,
+    "exact": 14.6,
+    "jaccard": 43.1,
+    "micro_f1": 54.27
+   },
+   "Qwen3-8B": {
+    "n": 1000,
+    "labels_per_item": 2.47,
+    "precision": 61.9,
+    "recall": 61.3,
+    "exact": 17.4,
+    "jaccard": 50.74,
+    "micro_f1": 61.59
+   },
+   "GLM-4-9B-0414": {
+    "n": 1000,
+    "labels_per_item": 1.98,
+    "precision": 62.9,
+    "recall": 50.0,
+    "exact": 11.2,
+    "jaccard": 43.22,
+    "micro_f1": 55.73
+   },
+   "Qwen3.5-122B-A10B": {
+    "n": 1000,
+    "labels_per_item": 1.1,
+    "precision": 80.3,
+    "recall": 35.5,
+    "exact": 7.8,
+    "jaccard": 38.17,
+    "micro_f1": 49.21
+   },
+   "DeepSeek-V4-Pro": {
+    "n": 600,
+    "labels_per_item": 1.89,
+    "precision": 68.5,
+    "recall": 51.6,
+    "exact": 15.17,
+    "jaccard": 47.3,
+    "micro_f1": 58.89
+   },
+   "Kimi-K2.6": {
+    "n": 600,
+    "labels_per_item": 1.84,
+    "precision": 65.9,
+    "recall": 48.4,
+    "exact": 9.67,
+    "jaccard": 42.79,
+    "micro_f1": 55.8
+   },
+   "fusion": {
+    "n": 1000,
+    "labels_per_item": 2.47,
+    "precision": 65.3,
+    "recall": 64.8,
+    "exact": 17.2,
+    "jaccard": 53.41,
+    "micro_f1": 65.03
+   }
+  },
+  "tweet_topic": {
+   "gold_labels_per_item": 1.56,
+   "Qwen3.5-4B": {
+    "n": 1000,
+    "labels_per_item": 1.11,
+    "precision": 83.2,
+    "recall": 59.5,
+    "exact": 47.5,
+    "jaccard": 66.26,
+    "micro_f1": 69.39
+   },
+   "Qwen3-8B": {
+    "n": 1000,
+    "labels_per_item": 1.61,
+    "precision": 65.9,
+    "recall": 68.4,
+    "exact": 42.0,
+    "jaccard": 64.26,
+    "micro_f1": 67.11
+   },
+   "GLM-4-9B-0414": {
+    "n": 1000,
+    "labels_per_item": 1.33,
+    "precision": 75.7,
+    "recall": 64.7,
+    "exact": 46.9,
+    "jaccard": 66.67,
+    "micro_f1": 69.76
+   },
+   "Qwen3.5-122B-A10B": {
+    "n": 1000,
+    "labels_per_item": 1.06,
+    "precision": 86.2,
+    "recall": 58.8,
+    "exact": 48.7,
+    "jaccard": 67.15,
+    "micro_f1": 69.93
+   },
+   "DeepSeek-V4-Pro": {
+    "n": 600,
+    "labels_per_item": 1.52,
+    "precision": 72.5,
+    "recall": 70.8,
+    "exact": 44.5,
+    "jaccard": 67.17,
+    "micro_f1": 71.6
+   },
+   "Kimi-K2.6": {
+    "n": 600,
+    "labels_per_item": 1.47,
+    "precision": 72.5,
+    "recall": 68.2,
+    "exact": 40.67,
+    "jaccard": 64.63,
+    "micro_f1": 70.3
+   },
+   "fusion": {
+    "n": 1000,
+    "labels_per_item": 1.5,
+    "precision": 73.4,
+    "recall": 70.9,
+    "exact": 44.9,
+    "jaccard": 67.64,
+    "micro_f1": 72.14
+   }
+  }
+ },
+ "frontier": {
+  "jecqa": {
+   "n": 600,
+   "DeepSeek-V4-Pro": {
+    "exact": 62.17,
+    "cost_per_1000": 2.239
+   },
+   "Kimi-K2.6": {
+    "exact": 75.33,
+    "cost_per_1000": 1.276
+   },
+   "free": {
+    "exact": 44.5,
+    "cost_per_1000": 0.0
+   },
+   "free + inexpensive": {
+    "exact": 68.33,
+    "cost_per_1000": 1.048
+   }
+  },
+  "tweet_emotion": {
+   "n": 600,
+   "DeepSeek-V4-Pro": {
+    "jaccard": 47.3,
+    "cost_per_1000": 1.921
+   },
+   "Kimi-K2.6": {
+    "jaccard": 42.79,
+    "cost_per_1000": 1.126
+   },
+   "free": {
+    "jaccard": 53.84,
+    "cost_per_1000": 0.0
+   },
+   "free + inexpensive": {
+    "jaccard": 53.69,
+    "cost_per_1000": 1.525
+   }
+  },
+  "tweet_topic": {
+   "n": 600,
+   "DeepSeek-V4-Pro": {
+    "jaccard": 67.17,
+    "cost_per_1000": 2.851
+   },
+   "Kimi-K2.6": {
+    "jaccard": 64.63,
+    "cost_per_1000": 1.622
+   },
+   "free": {
+    "jaccard": 67.39,
+    "cost_per_1000": 0.0
+   },
+   "free + inexpensive": {
+    "jaccard": 67.76,
+    "cost_per_1000": 2.586
+   }
+  }
+ }
+}

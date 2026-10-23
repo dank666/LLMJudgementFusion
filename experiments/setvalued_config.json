@@ -1,0 +1,19 @@
+{
+ "tasks": {
+  "jecqa": {"metric": "exact", "decoder": "set"},
+  "tweet_emotion": {"metric": "jaccard", "decoder": "unit_jaccard"},
+  "tweet_topic": {"metric": "jaccard", "decoder": "unit_jaccard"}
+ },
+ "views": {
+  "free": {"models": ["Qwen3.5-4B", "Qwen3-8B", "GLM-4-9B-0414"], "strategies": ["direct", "judge", "eliminate"]},
+  "inexpensive": {"models": ["Qwen3.5-122B-A10B"], "strategies": ["direct", "judge", "eliminate", "confidence"]},
+  "frontier": {"models": ["DeepSeek-V4-Pro", "Kimi-K2.6"], "strategies": ["direct"]}
+ },
+ "ensembles": {
+  "free": ["free"],
+  "inexpensive": ["inexpensive"],
+  "free + inexpensive": ["free", "inexpensive"],
+  "frontier": ["frontier"],
+  "all": ["free", "inexpensive", "frontier"]
+ }
+}

@@ -1,0 +1,548 @@
+{"uid": "mmlu-validation-000", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 131, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-001", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-002", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 142, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-003", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 111, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-004", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 126, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-005", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-006", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 115, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-007", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 115, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-008", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-009", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-010", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 101, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-011", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 115, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-012", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 124, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-013", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-014", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-015", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-016", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-017", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 117, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-018", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 121, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-019", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-020", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-validation-021", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-dev-000", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 132, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-dev-001", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 141, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-dev-002", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 148, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-dev-003", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 115, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "mmlu-dev-004", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae09-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 151, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae0a-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae0b-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 175, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae0d-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 128, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae18-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 219, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae26-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae3b-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 139, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae40-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 138, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae4c-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 140, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae51-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae53-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae57-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 158, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae59-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 129, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae69-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 121, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae71-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 124, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae73-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 127, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae74-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 156, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae7a-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 143, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae82-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 128, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae8b-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 140, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfae8d-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaea9-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaeb2-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 164, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaeb4-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 130, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaec1-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaecc-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaed0-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaed7-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 133, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaed9-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 115, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaeda-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 151, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaee0-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaeef-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 125, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaef6-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 133, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf01-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 175, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf03-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 164, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf08-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 117, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf0c-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 125, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf11-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 156, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf12-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 160, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf17-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 121, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf1c-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 117, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf1d-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 119, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf25-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 132, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf2e-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 121, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf36-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 154, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf3a-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf3d-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 119, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf5a-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 123, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf61-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 177, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf68-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 169, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf69-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 147, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf6a-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 136, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf6b-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 157, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf7b-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 125, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf7f-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf83-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 147, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf90-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 249, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf97-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 124, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaf9e-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 174, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfafa8-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfafb3-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfafb9-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 127, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfafbe-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 125, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfafc4-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 164, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfafcb-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 126, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfafce-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 159, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfafd6-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 147, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaff0-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 195, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaff2-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 135, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfaff3-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 129, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb003-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 139, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb005-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 155, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb00a-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 133, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb012-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 119, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb024-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 144, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb027-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb02c-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 130, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb030-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb033-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 137, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb034-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 145, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb037-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 160, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb038-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 150, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb041-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 135, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb059-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 125, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb05a-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 111, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb05b-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 124, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb061-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 148, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-35dfb064-7e71-11ea-9eb1-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 155, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-742f54b8-88c6-11ea-b03c-fd2767892dea", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 138, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-742f6098-88c6-11ea-b03c-fd2767892dea", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-7419b5c2-88c6-11ea-b7b7-c16a18ebefaa", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-7419ba86-88c6-11ea-b7b7-c16a18ebefaa", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-7bde1398-88c6-11ea-b03c-fd2767892dea", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 211, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-7c119f06-88c6-11ea-9948-f539ccb75afc", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 141, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-7c11aa0a-88c6-11ea-9948-f539ccb75afc", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 149, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e11d3940-839f-11ea-8e1f-8c85906c192b", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 150, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e1303d74-839f-11ea-8e1f-8c85906c192b", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 145, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e1cb5674-839f-11ea-8e1f-8c85906c192b", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 170, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-1ce4d8e5-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 364, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-1ce4d8e8-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 508, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-209084e9-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 249, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-2547cff0-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 254, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-2547cff1-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 232, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-2547cff6-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 205, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-27c60492-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 194, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-27c604a0-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 224, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-28c82860-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 121, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-28c82861-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 155, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-28c82862-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 155, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-28c82867-8571-11ea-a5d8-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 129, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0a8b-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 147, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0c3a-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 123, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0be5-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 161, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e409bb-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 129, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed28cb-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 161, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed2925-7731-11ea-9116-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 161, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0c5a-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 155, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed2926-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 156, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0c36-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 126, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0de9-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 148, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e4099a-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 136, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e409b9-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 145, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e40a91-7731-11ea-9116-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 144, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed28c2-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 142, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed29be-7731-11ea-9116-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 166, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0aa2-7731-11ea-9116-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 121, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0e14-7731-11ea-9116-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 115, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e40931-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 152, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e40934-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 127, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e4096c-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 146, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed28cc-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 157, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e409bc-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 135, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0b75-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 139, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e4099f-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 141, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed28ae-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 141, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed29f2-7731-11ea-9116-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 131, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0a88-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 124, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0c26-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 145, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0e17-7731-11ea-9116-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0cb3-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 137, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0ddf-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 148, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0bbe-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 173, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0c52-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 144, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e409da-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 153, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed292f-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 135, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed293b-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 131, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0bf9-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 139, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0c0d-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 123, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0c2e-7731-11ea-9116-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 137, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0cf2-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7e40980-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 147, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7da0cb5-7731-11ea-9116-54bef70b159e", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 123, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed28e3-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 126, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "exams-validation-e7ed292e-7731-11ea-9116-54bef70b159e", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 173, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7869", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7870", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 131, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7871", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 117, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7872", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 135, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7873", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7874", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 107, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7875", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 129, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7876", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 161, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7877", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7878", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 127, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7879", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 111, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7880", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 132, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7881", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7882", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 94, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7883", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7884", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7885", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 154, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7886", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7887", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7888", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 135, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7889", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 138, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7890", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 123, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7891", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 119, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7892", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7893", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7894", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7895", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 126, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7896", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 95, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7897", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 111, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7898", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7899", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7900", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 129, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7901", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 117, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7902", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 115, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7903", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 104, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7904", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7905", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7906", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7907", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 125, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7908", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 126, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7909", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 114, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7910", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 104, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7911", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 117, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7912", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7913", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7914", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7915", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7916", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 126, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7917", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7918", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7919", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 115, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7920", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7921", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 125, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7922", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7923", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 98, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7924", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7925", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 129, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7926", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 130, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7927", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 115, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7928", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 125, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7929", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7930", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 101, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7931", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 119, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7932", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7933", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7934", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 114, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7935", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7936", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7937", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7938", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7939", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7940", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7941", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7942", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7943", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 121, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7944", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7945", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7946", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7947", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7948", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7949", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7950", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7951", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7952", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7953", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 111, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7954", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7955", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7956", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7957", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 107, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7958", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7959", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7960", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7961", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7962", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7963", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7964", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 114, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7965", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 141, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7966", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 114, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7967", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7968", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7969", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 119, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7970", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7972", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 124, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7973", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7974", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 127, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7975", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7977", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 119, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7978", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7979", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 117, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7980", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 101, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7981", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7982", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7983", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 126, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7984", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7985", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 97, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7986", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 111, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7987", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7988", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7989", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7990", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7991", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 125, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7992", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 114, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7993", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7994", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7995", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7996", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7997", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 127, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7998", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-7999", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 126, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8000", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8001", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8002", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8003", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8004", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8005", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 101, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8006", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8007", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8008", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 128, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8009", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8010", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8011", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8012", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 142, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8013", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8014", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8015", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 142, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8016", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 101, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8017", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8018", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 111, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8019", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8020", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 96, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8021", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8022", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8023", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8024", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8025", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8026", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 124, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8027", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 119, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8028", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8029", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8030", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 104, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8031", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8032", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8033", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8034", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 121, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8035", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 99, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8036", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8037", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8038", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8039", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 99, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8040", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8041", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 98, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8042", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 101, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8043", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8044", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 93, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8045", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 104, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8046", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 96, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8047", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8048", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 94, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8049", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8050", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8051", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 97, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8052", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 95, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8053", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8054", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 107, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8055", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 99, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8056", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8057", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8058", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 93, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8059", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8060", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8061", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8062", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8063", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8064", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 98, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8065", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8066", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8067", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8068", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 107, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8069", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 99, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8070", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8071", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 121, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8072", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8073", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8074", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8075", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 95, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8076", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 93, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8077", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 91, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8078", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 93, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8079", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 88, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8080", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 95, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8081", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 90, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8082", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8083", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8084", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8085", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 98, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8086", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8087", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8088", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 104, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8089", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 110, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8090", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8091", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8092", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8093", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8094", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8095", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 99, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8096", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8097", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8098", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8099", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8100", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8101", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8102", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8104", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 97, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8105", "vector": {"A": "-", "B": "+", "C": "-", "D": "-"}, "raw": "B", "prompt_tokens": 106, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8106", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 101, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8107", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8108", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 101, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8109", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8110", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 103, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8111", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8112", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 98, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8113", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 101, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8114", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 98, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8115", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 92, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8116", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 104, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8117", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 98, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8118", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8119", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8120", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8121", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 96, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8122", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 98, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8123", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 97, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8124", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 97, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8125", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 98, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8126", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8127", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8128", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 115, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8129", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8130", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 94, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8131", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 99, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8132", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 101, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8133", "vector": {"A": "-", "B": "-", "C": "+", "D": "-"}, "raw": "C", "prompt_tokens": 111, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8134", "vector": {"A": "+", "B": "-", "C": "-"}, "raw": "A", "prompt_tokens": 119, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8135", "vector": {"A": "-", "B": "-", "C": "+"}, "raw": "C", "prompt_tokens": 105, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8136", "vector": {"A": "-", "B": "-", "C": "-", "D": "+"}, "raw": "D", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8137", "vector": {"A": "-", "B": "+", "C": "-"}, "raw": "B", "prompt_tokens": 100, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8138", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 95, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8139", "vector": {"A": "+", "B": "-"}, "raw": "A", "prompt_tokens": 95, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8140", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 95, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8141", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 97, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8142", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 96, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "arabicmmlu-8143", "vector": {"A": "-", "B": "+"}, "raw": "B", "prompt_tokens": 97, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-507", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 141, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-508", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 132, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-516", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 150, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-517", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 202, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-519", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 108, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-527", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-532", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 148, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-536", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-551", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 118, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-555", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 112, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-561", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 123, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-580", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-583", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 138, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-587", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 128, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-590", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-592", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 164, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-593", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 139, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-594", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 117, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-595", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 126, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-608", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 102, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-610", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 109, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-619", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 160, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-622", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-623", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 114, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-628", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 209, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-629", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 123, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-639", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-652", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 130, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-657", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 160, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-659", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 143, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-668", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 135, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-673", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 132, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-677", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 132, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-681", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 134, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-683", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 163, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-685", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 137, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-692", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 124, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-693", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-694", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 124, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-706", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 127, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-709", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 127, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-710", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 116, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-718", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 142, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-724", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 168, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-730", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 195, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-735", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 215, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-737", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 191, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-739", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 207, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-742", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 181, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-747", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-750", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 152, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-751", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 128, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-762", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 121, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-769", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 175, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-779", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 161, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-787", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 175, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-790", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 138, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-800", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 183, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-801", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 192, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-806", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 177, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-807", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 188, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-809", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 122, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-811", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 167, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-814", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 114, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-815", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 164, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-836", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 113, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-846", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 160, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-850", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 164, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-859", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 178, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-867", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 157, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-871", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 148, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-874", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 295, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-884", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 146, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-886", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 148, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-887", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 140, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-901", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 137, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-907", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 146, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-914", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 117, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-918", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 153, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-920", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 137, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-924", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 184, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-931", "vector": {"A": "+", "B": "-", "C": "-", "D": "-"}, "raw": "A", "prompt_tokens": 144, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-936", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 170, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-943", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 124, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-946", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 196, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-948", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 145, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-957", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 213, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-961", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 120, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-985", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 161, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "indommlu-986", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 148, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "turkishmmlu-dev-000", "vector": {"A": "-", "B": "-", "C": "-", "D": "+", "E": "-"}, "raw": "D", "prompt_tokens": 139, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "turkishmmlu-dev-001", "vector": {"A": "-", "B": "+", "C": "-", "D": "-", "E": "-"}, "raw": "B", "prompt_tokens": 166, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "turkishmmlu-dev-002", "vector": {"A": "+", "B": "-", "C": "-", "D": "-", "E": "-"}, "raw": "A", "prompt_tokens": 336, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "turkishmmlu-dev-003", "vector": {"A": "-", "B": "-", "C": "-", "D": "-", "E": "+"}, "raw": "E", "prompt_tokens": 189, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}
+{"uid": "turkishmmlu-dev-004", "vector": {"A": "-", "B": "-", "C": "+", "D": "-", "E": "-"}, "raw": "C", "prompt_tokens": 199, "completion_tokens": 1, "served_model": "Qwen/Qwen3.5-122B-A10B"}

@@ -1,0 +1,245 @@
+{"uid": "agieval-000", "vector": {"①": "+", "②": "+", "③": "-", "④": "-"}, "raw": "{\n    \"①\": \"true\",\n    \"②\": \"true\",\n    \"③\": \"false\",\n    \"④\": \"false\"\n}", "prompt_tokens": 131, "completion_tokens": 30, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-001", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-002", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-003", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-004", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-005", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-006", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-007", "vector": {"①": "?", "②": "+", "③": "+", "④": "?"}, "raw": "{\n    \"①\": \"unsure\",\n    \"②\": \"true\",\n    \"③\": \"true\",\n    \"④\": \"unsure\"\n}", "prompt_tokens": 141, "completion_tokens": 32, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-008", "vector": {"①": "?", "②": "-", "③": "+", "④": "+"}, "raw": "{\"①\": \"unsure\", \"②\": \"false\", \"③\": \"true\", \"④\": \"true\"}", "prompt_tokens": 149, "completion_tokens": 25, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-009", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-010", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-011", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-012", "vector": {"①": "?", "②": "+", "③": "+", "④": "?"}, "raw": "{\n\"①\": \"unsure\",\n\"②\": \"true\",\n\"③\": \"true\",\n\"④\": \"unsure\"\n}", "prompt_tokens": 213, "completion_tokens": 28, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-013", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-014", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-015", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-016", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-017", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-018", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-019", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-020", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-021", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-022", "vector": {"①": "?", "②": "+", "③": "+", "④": "+"}, "raw": "{\n    \"①\": \"unsure\",\n    \"②\": \"true\",\n    \"③\": \"true\",\n    \"④\": \"true\"\n}", "prompt_tokens": 203, "completion_tokens": 31, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-023", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-024", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-025", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-026", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-027", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-028", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-029", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-030", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-031", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-032", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-033", "vector": {"①": "+", "②": "?", "③": "-", "④": "?"}, "raw": "{\n\"①\": \"true\",\n\"②\": \"unsure\",\n\"③\": \"false\",\n\"④\": \"unsure\"\n}", "prompt_tokens": 221, "completion_tokens": 28, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-034", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-035", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-036", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-037", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-038", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-039", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-040", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-041", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-042", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-043", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-044", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-045", "vector": {"①": "+", "②": "?", "③": "+", "④": "-"}, "raw": "{\n    \"①\": \"true\",\n    \"②\": \"unsure\",\n    \"③\": \"true\",\n    \"④\": \"false\"\n}", "prompt_tokens": 596, "completion_tokens": 31, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-046", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-047", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-048", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-049", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-050", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-051", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-052", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-053", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-054", "vector": {"①": "?", "②": "-", "③": "?", "④": "+"}, "raw": "{\n    \"①\": \"unsure\",\n    \"②\": \"false\",\n    \"③\": \"unsure\",\n    \"④\": \"true\"\n}", "prompt_tokens": 164, "completion_tokens": 32, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-055", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-056", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-057", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-058", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-059", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-060", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-061", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-062", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-063", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-064", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-065", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-066", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-067", "vector": {"①": "+", "②": "+", "③": "-", "④": "?"}, "raw": "{\n    \"①\": \"true\",\n    \"②\": \"true\",\n    \"③\": \"false\",\n    \"④\": \"unsure\"\n}", "prompt_tokens": 181, "completion_tokens": 31, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-068", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-069", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-070", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-071", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-072", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-073", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-074", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-075", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-076", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-077", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-078", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-079", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-080", "vector": {"①": "+", "②": "-", "③": "+", "④": "?"}, "raw": "{\n\"①\": \"true\",\n\"②\": \"false\",\n\"③\": \"true\",\n\"④\": \"unsure\"\n}", "prompt_tokens": 193, "completion_tokens": 27, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-081", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-082", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-083", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-084", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-085", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-086", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-087", "vector": {"①": "+", "②": "+", "③": "-", "④": "+"}, "raw": "{\n    \"①\": \"true\",\n    \"②\": \"true\",\n    \"③\": \"false\",\n    \"④\": \"true\"\n}", "prompt_tokens": 196, "completion_tokens": 30, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-088", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-089", "vector": {"①": "-", "②": "-", "③": "+", "④": "+"}, "raw": "{\n    \"①\": \"false\",\n    \"②\": \"false\",\n    \"③\": \"true\",\n    \"④\": \"true\"\n}", "prompt_tokens": 143, "completion_tokens": 30, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-090", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-091", "vector": {"①": "-", "②": "+", "③": "+", "④": "-"}, "raw": "{\n\"①\": \"false\",\n\"②\": \"true\",\n\"③\": \"true\",\n\"④\": \"false\"\n}", "prompt_tokens": 167, "completion_tokens": 26, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-092", "vector": {"①": "?", "②": "+", "③": "+", "④": "-"}, "raw": "{\n\"①\": \"unsure\",\n\"②\": \"true\",\n\"③\": \"true\",\n\"④\": \"false\"\n}", "prompt_tokens": 165, "completion_tokens": 27, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-093", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-094", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-095", "vector": {"①": "+", "②": "+", "③": "?", "④": "-"}, "raw": "{\n\"①\": \"true\",\n\"②\": \"true\",\n\"③\": \"unsure\",\n\"④\": \"false\"\n}", "prompt_tokens": 210, "completion_tokens": 27, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-096", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-097", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-098", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-099", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-100", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-101", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-102", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-103", "vector": {"①": "?", "②": "+", "③": "-", "④": "+"}, "raw": "{\n    \"①\": \"unsure\",\n    \"②\": \"true\",\n    \"③\": \"false\",\n    \"④\": \"true\"\n}", "prompt_tokens": 226, "completion_tokens": 31, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-104", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-105", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-106", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-107", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-108", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-109", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-110", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-111", "vector": {"①": "+", "②": "+", "③": "-", "④": "-"}, "raw": "{\"①\": \"true\", \"②\": \"true\", \"③\": \"false\", \"④\": \"false\"}", "prompt_tokens": 201, "completion_tokens": 24, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-112", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-113", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-114", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-115", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-116", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-117", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-118", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-119", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-120", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-121", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-122", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-123", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-124", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-125", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-126", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-127", "vector": {"①": "?", "②": "+", "③": "?", "④": "+"}, "raw": "{\"①\": \"unsure\", \"②\": \"true\", \"③\": \"unsure\", \"④\": \"true\"}", "prompt_tokens": 228, "completion_tokens": 26, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-128", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-129", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-130", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-131", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-132", "vector": {"①": "-", "②": "-", "③": "+", "④": "+"}, "raw": "{\"①\": \"false\", \"②\": \"false\", \"③\": \"true\", \"④\": \"true\"}", "prompt_tokens": 144, "completion_tokens": 24, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-133", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-134", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-135", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-136", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-137", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-138", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-139", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-140", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-141", "vector": {"①": "+", "②": "+", "③": "+", "④": "-"}, "raw": "{\"①\": \"true\", \"②\": \"true\", \"③\": \"true\", \"④\": \"false\"}", "prompt_tokens": 140, "completion_tokens": 24, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-142", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-143", "vector": {"①": "+", "②": "?", "③": "?", "④": "+"}, "raw": "{\n\"①\": \"true\",\n\"②\": \"unsure\",\n\"③\": \"unsure\",\n\"④\": \"true\"\n}", "prompt_tokens": 173, "completion_tokens": 28, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-144", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-145", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-146", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-147", "vector": {"①": "+", "②": "+", "③": "+", "④": "-"}, "raw": "{\"①\": \"true\", \"②\": \"true\", \"③\": \"true\", \"④\": \"false\"}", "prompt_tokens": 156, "completion_tokens": 24, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-148", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-149", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-150", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-151", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-152", "vector": {"①": "+", "②": "+", "③": "+", "④": "?"}, "raw": "{\n\"①\": \"true\",\n\"②\": \"true\",\n\"③\": \"true\",\n\"④\": \"unsure\"\n}", "prompt_tokens": 143, "completion_tokens": 27, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-153", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-154", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-155", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-156", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-157", "vector": {"①": "?", "②": "?", "③": "+", "④": "+"}, "raw": "{\"①\": \"unsure\", \"②\": \"unsure\", \"③\": \"true\", \"④\": \"true\"}", "prompt_tokens": 404, "completion_tokens": 26, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-158", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-159", "vector": {"①": "+", "②": "?", "③": "?", "④": "+"}, "raw": "{\n    \"①\": \"true\",\n    \"②\": \"unsure\",\n    \"③\": \"unsure\",\n    \"④\": \"true\"\n}", "prompt_tokens": 175, "completion_tokens": 32, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-160", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-161", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-162", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-163", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-164", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-165", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-166", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-167", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-168", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-169", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-170", "vector": {"①": "-", "②": "-", "③": "-", "④": "+"}, "raw": "{\n\"①\": \"false\",\n\"②\": \"false\",\n\"③\": \"false\",\n\"④\": \"true\"\n}", "prompt_tokens": 124, "completion_tokens": 26, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-171", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-172", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-173", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-174", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-175", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-176", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-177", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-178", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-179", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-180", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-181", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-182", "vector": {"①": "+", "②": "+", "③": "-", "④": "?"}, "raw": "{\n\"①\": \"true\",\n\"②\": \"true\",\n\"③\": \"false\",\n\"④\": \"unsure\"\n}", "prompt_tokens": 157, "completion_tokens": 27, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-183", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-184", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-185", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-186", "vector": {"①": "+", "②": "-", "③": "+", "④": "?"}, "raw": "{\n\"①\": \"true\",\n\"②\": \"false\",\n\"③\": \"true\",\n\"④\": \"unsure\"\n}", "prompt_tokens": 144, "completion_tokens": 27, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-187", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-188", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-189", "vector": {"①": "-", "②": "+", "③": "-", "④": "+"}, "raw": "{\n\"①\": \"false\",\n\"②\": \"true\",\n\"③\": \"false\",\n\"④\": \"true\"\n}", "prompt_tokens": 131, "completion_tokens": 26, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-190", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-191", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-192", "vector": {"①": "+", "②": "+", "③": "-", "④": "+"}, "raw": "{\"①\": \"true\", \"②\": \"true\", \"③\": \"false\", \"④\": \"true\"}", "prompt_tokens": 132, "completion_tokens": 24, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-193", "vector": {"①": "-", "②": "-", "③": "+", "④": "+"}, "raw": "{\n    \"①\": \"false\",\n    \"②\": \"false\",\n    \"③\": \"true\",\n    \"④\": \"true\"\n}", "prompt_tokens": 150, "completion_tokens": 30, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-194", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-195", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-196", "vector": {"①": "+", "②": "+", "③": "-", "④": "?"}, "raw": "{\"①\": \"true\", \"②\": \"true\", \"③\": \"false\", \"④\": \"unsure\"}", "prompt_tokens": 133, "completion_tokens": 25, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "agieval-197", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "agieval-198", "vector": {"①": "?", "②": "+", "③": "+", "④": "?"}, "raw": "{\"①\": \"unsure\", \"②\": \"true\", \"③\": \"true\", \"④\": \"unsure\"}", "prompt_tokens": 157, "completion_tokens": 26, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "gaokao-00-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-00-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-01-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-01-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-01-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-02-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-02-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-02-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-03-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-03-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-03-3", "vector": {"①": "+", "②": "-", "③": "+", "④": "+"}, "raw": "{\"①\": \"true\", \"②\": \"false\", \"③\": \"true\", \"④\": \"true\"}", "prompt_tokens": 197, "completion_tokens": 24, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "gaokao-04-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-04-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-05-1", "vector": {"①": "+", "②": "-", "③": "+", "④": "?"}, "raw": "{\"①\": \"true\", \"②\": \"false\", \"③\": \"true\", \"④\": \"unsure\"}", "prompt_tokens": 390, "completion_tokens": 25, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "gaokao-05-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-05-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-06-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-06-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-06-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-07-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-07-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-07-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-08-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-08-2", "vector": {"①": "?", "②": "+", "③": "?", "④": "?"}, "raw": "{\n\"①\": \"unsure\",\n\"②\": \"true\",\n\"③\": \"unsure\",\n\"④\": \"unsure\"\n}", "prompt_tokens": 220, "completion_tokens": 29, "served_model": "THUDM/GLM-4-9B-0414"}
+{"uid": "gaokao-08-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-09-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-09-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-10-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-10-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-10-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-11-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-11-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-11-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-12-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-12-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-12-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-13-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-13-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-14-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-14-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-14-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-15-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-15-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-25-1", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-25-2", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}
+{"uid": "gaokao-25-3", "vector": {}, "raw": "", "prompt_tokens": 0, "completion_tokens": 0, "served_model": null}

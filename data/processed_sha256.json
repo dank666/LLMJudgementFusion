@@ -1,0 +1,20 @@
+{
+ "intl_dev.jsonl": "1a2c1ab3f8a32834ae7e35e0cfc0a3908850abe8cf0d4706c97f80a2b9ed0a7f",
+ "intl_test.jsonl": "0a378a2403d6ac24b76b02fc8e67c51995ea940618f4c98d394625001c2bd195",
+ "multi_dev.jsonl": "5bcb0493b766c79bca6730f85c2d3b251a23d835ceeb30ad761c8aa6c6b820dc",
+ "multi_test.jsonl": "3f2826c4edf40287bdac49949a0751fdeb1fe80cde757c8dc93eca6466934537",
+ "gaokao_geo.jsonl": "a9ee08a3252d80f5061140a0a06b4e52d83f6efa0602724514d2aa2f2b16ecf8",
+ "excluded.json": "34805f00617baa86f98d599dcfdf90a07c8ee5118b98f3394d6ca8d9d04baceb",
+ "jecqa_dev.jsonl": "cc5a9add76a89618c1dae72860addb0010cb4cefca8b5108b01ac63e76293caf",
+ "jecqa_test.jsonl": "1231387718d564ddfb274732c85e46c8167248ccd7c48672de4b27824898e752",
+ "tweet_emotion_dev.jsonl": "90d7631dee081de2c0d95e3635644c15f05ef86045c4b1b6ea031f3a8c1d8181",
+ "tweet_emotion_test.jsonl": "26dc33b5615ec0a2bbcf852bb0fa852022198bb3e4de41584ec5e74c19f3460e",
+ "tweet_topic_dev.jsonl": "a042bfd27560b9cfb765eb4b2b516bc6816fa0d76dc1bc6728a8837d9b03e1f0",
+ "tweet_topic_test.jsonl": "dca1c2d956d181b0ef63e0c9679ec8830ee5e2a107b9cce7300d264d799c9db1",
+ "frontier_uids/jecqa_dev.txt": "b6659a0ef75ac11973d4dc4445427f28993d786a59d6fdb9e887d3968de4f8f6",
+ "frontier_uids/jecqa_test.txt": "fe6c42d7ac700bf4b5ad26216f236378f39b760fbc2333445413adb144c0b3b2",
+ "frontier_uids/tweet_emotion_dev.txt": "6558191a60f64d772d3244aaf7fb47d3b6ba674a556fb84eac9fab5537789745",
+ "frontier_uids/tweet_emotion_test.txt": "90fc74e0e9477c970796f88f9357925f724915aa9d5ca8d291949d2aafe47f7e",
+ "frontier_uids/tweet_topic_dev.txt": "f7e28333bc194459e3b74b21dbc1ef141767b0fa431c80a5676d842607f94a90",
+ "frontier_uids/tweet_topic_test.txt": "36899895bf4f3a245aa1327d5340e749d2ac264b3ad89171c97bd08230e4f38f"
+}

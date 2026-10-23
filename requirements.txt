@@ -1,0 +1,8 @@
+openai
+httpx[socks]
+python-dotenv
+numpy
+pandas
+pyarrow
+matplotlib
+pytest

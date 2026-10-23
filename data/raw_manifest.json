@@ -1,0 +1,362 @@
+{
+ "data/raw/intl/arabicmmlu_geo_High_School_dev.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Geography%20%28High%20School%29/dev.csv",
+  "sha256": "51444ea8a4cafc323ac693b875c8d079b3601a514651fc4bda1310a20891b7ba"
+ },
+ "data/raw/intl/arabicmmlu_geo_High_School_test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Geography%20%28High%20School%29/test.csv",
+  "sha256": "6c128ea340acbfa3afbdd8ce9ad406f19a3349273588e87e8182818f2e600488"
+ },
+ "data/raw/intl/arabicmmlu_geo_Middle_School_test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Geography%20%28Middle%20School%29/test.csv",
+  "sha256": "e23e0f3276c0b2a85aa4c5a905419f48143b849ba7dcc27f4a3626210c7ab990"
+ },
+ "data/raw/intl/arabicmmlu_geo_Primary_School_test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Geography%20%28Primary%20School%29/test.csv",
+  "sha256": "bf08e4f70288b64b6e9f745c1ab79549efb19f32bf0ff0cf73cc1b97b3988a96"
+ },
+ "data/raw/intl/exams_multilingual_test.parquet": {
+  "url": "https://huggingface.co/datasets/mhardalov/exams/resolve/main/multilingual/test-00000-of-00001.parquet",
+  "sha256": "f48b135adf69063fda3a3907391eea582b6b36673c860b1cea05e69b9c69f594"
+ },
+ "data/raw/intl/exams_multilingual_train.parquet": {
+  "url": "https://huggingface.co/datasets/mhardalov/exams/resolve/main/multilingual/train-00000-of-00001.parquet",
+  "sha256": "2640ae098bede3ceab6813cabd18587cf406d1fe017e19cb71f4982b3e58c5ed"
+ },
+ "data/raw/intl/exams_multilingual_validation.parquet": {
+  "url": "https://huggingface.co/datasets/mhardalov/exams/resolve/main/multilingual/validation-00000-of-00001.parquet",
+  "sha256": "e6498bd9aee8c2b52657c41e12f680cb623fdae7c5b1f46482a33b6bcf1eff65"
+ },
+ "data/raw/intl/indommlu.csv": {
+  "url": "https://huggingface.co/datasets/indolem/IndoMMLU/resolve/main/IndoMMLU.csv",
+  "sha256": "bf46726c7e68014f87843102b6e30b08587b43e4511967f16ba572812ac25080"
+ },
+ "data/raw/intl/mmlu_hsg_dev.parquet": {
+  "url": "https://huggingface.co/datasets/cais/mmlu/resolve/main/high_school_geography/dev-00000-of-00001.parquet",
+  "sha256": "d3a732b15dc6177cf2f3f432b2378baf5f48f36961ceace5faa3f62fc5ee0997"
+ },
+ "data/raw/intl/mmlu_hsg_test.parquet": {
+  "url": "https://huggingface.co/datasets/cais/mmlu/resolve/main/high_school_geography/test-00000-of-00001.parquet",
+  "sha256": "d083f0a37e9802ff70af8c0ccee95dc6836d80db74f45327519756327076a2c1"
+ },
+ "data/raw/intl/mmlu_hsg_validation.parquet": {
+  "url": "https://huggingface.co/datasets/cais/mmlu/resolve/main/high_school_geography/validation-00000-of-00001.parquet",
+  "sha256": "d1c34639bf3b18722f93a268b11da8d8a69ce1cd5554bf4f430090eaf4bde0ee"
+ },
+ "data/raw/intl/turkishmmlu_geo_dev.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/dev/TurkishMMLU_Geography.json",
+  "sha256": "1a7c33b33dff322fae081a408c6769b2e0180de02eed9cfc0f5317bee1927201"
+ },
+ "data/raw/intl/turkishmmlu_geo_test.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/test/TurkishMMLU_Geography.json",
+  "sha256": "89a6ba2a22e86e9ee862e23f77f5e71ce83a28fface3aa90b0ae3aa96178bc8d"
+ },
+ "data/raw/multi/agieval_gaokao-biology.jsonl": {
+  "url": "https://raw.githubusercontent.com/ruixiangcui/AGIEval/main/data/v1_1/gaokao-biology.jsonl",
+  "sha256": "789baadad69c998743302143a3e1c2022a2aca785bbe75644877a336242c7e69"
+ },
+ "data/raw/multi/agieval_gaokao-chemistry.jsonl": {
+  "url": "https://raw.githubusercontent.com/ruixiangcui/AGIEval/main/data/v1_1/gaokao-chemistry.jsonl",
+  "sha256": "4fb8a4b881f652a908545447a062c7ba458be2ba793a45fc11b892053406704e"
+ },
+ "data/raw/multi/agieval_gaokao-history.jsonl": {
+  "url": "https://raw.githubusercontent.com/ruixiangcui/AGIEval/main/data/v1_1/gaokao-history.jsonl",
+  "sha256": "27350771d399814fc69dd6d7e6ce115b7913ae208e04e385a7e6fcdf51a6b8b7"
+ },
+ "data/raw/multi/agieval_gaokao-physics.jsonl": {
+  "url": "https://raw.githubusercontent.com/ruixiangcui/AGIEval/main/data/v1_1/gaokao-physics.jsonl",
+  "sha256": "9f8f91b35b5cc2d3ba67b9c6f31bc72c51caaaa58a4a46375690d3b8b127a82b"
+ },
+ "data/raw/multi/agieval_jec-qa-ca.jsonl": {
+  "url": "https://raw.githubusercontent.com/ruixiangcui/AGIEval/main/data/v1_1/jec-qa-ca.jsonl",
+  "sha256": "704efb9943cb827811d883163d893d483451ddaaf9f595f94866e51e70e20785"
+ },
+ "data/raw/multi/agieval_jec-qa-kd.jsonl": {
+  "url": "https://raw.githubusercontent.com/ruixiangcui/AGIEval/main/data/v1_1/jec-qa-kd.jsonl",
+  "sha256": "fec1d0d85d480ee6c23371af59b2305732d8561296cd878b5367b65ebfc4a467"
+ },
+ "data/raw/multi/arabic/Accounting__University__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Accounting%20%28University%29/test.csv",
+  "sha256": "9ddbc9aba815304f5c20db10ec401549c8c61811cb23578c3eaa9c1ed6dff9b7"
+ },
+ "data/raw/multi/arabic/All_test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/All/test.csv",
+  "sha256": "c4ba4d6c6903d2b7b4415f18c9bb3173ba55c1344a91339769deba931d0c2782"
+ },
+ "data/raw/multi/arabic/Arabic_Language__General__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Arabic%20Language%20%28General%29/test.csv",
+  "sha256": "ef20c64ec8e0ae0fd3249063a27892eafc70d268b682e9e168d89e905973634f"
+ },
+ "data/raw/multi/arabic/Arabic_Language__Grammar__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Arabic%20Language%20%28Grammar%29/test.csv",
+  "sha256": "29781642304f47639b332cef56671d5aa8b49dc7052e0c5b18de42c775d1dadd"
+ },
+ "data/raw/multi/arabic/Arabic_Language__High_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Arabic%20Language%20%28High%20School%29/test.csv",
+  "sha256": "a031911882249870e930bd50eff99d746443dcee33798ba6974ae0a624b3f4f0"
+ },
+ "data/raw/multi/arabic/Arabic_Language__Middle_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Arabic%20Language%20%28Middle%20School%29/test.csv",
+  "sha256": "16b408860e8994ade2bebeff207f2f506159229d9228f069832c329d8bdedab3"
+ },
+ "data/raw/multi/arabic/Arabic_Language__Primary_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Arabic%20Language%20%28Primary%20School%29/test.csv",
+  "sha256": "b31dabdf40335d6e9e201d0a92f90fe088e4cbda36a4d2c2b382fe6fb3cb4182"
+ },
+ "data/raw/multi/arabic/Biology__High_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Biology%20%28High%20School%29/test.csv",
+  "sha256": "d4e7579e7a6670e964f308e036060b176da038c9ce9095a193f03ede163db78f"
+ },
+ "data/raw/multi/arabic/Civics__High_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Civics%20%28High%20School%29/test.csv",
+  "sha256": "60a0947cd445a90f1113c32d3c5ff13f524965eacacc7779f9634871413906c6"
+ },
+ "data/raw/multi/arabic/Civics__Middle_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Civics%20%28Middle%20School%29/test.csv",
+  "sha256": "caddf5732996a10483d7231b2da14ecad0e7a498574849b515d66bd632fb00b1"
+ },
+ "data/raw/multi/arabic/Computer_Science__High_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Computer%20Science%20%28High%20School%29/test.csv",
+  "sha256": "fd7bae2a8ad52d53fcd7ae77e00f641d9185630377e76dbf5ddde8eaa921374d"
+ },
+ "data/raw/multi/arabic/Computer_Science__Middle_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Computer%20Science%20%28Middle%20School%29/test.csv",
+  "sha256": "09105d24437f35f6c0f9620f5cc721fcf20ea020a38bf26e46633f2ebf75c80e"
+ },
+ "data/raw/multi/arabic/Computer_Science__Primary_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Computer%20Science%20%28Primary%20School%29/test.csv",
+  "sha256": "26a6eacd3350978cf3bda2807aefdd66c7af4ea5ceaafe8e4026801414e78b8b"
+ },
+ "data/raw/multi/arabic/Computer_Science__University__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Computer%20Science%20%28University%29/test.csv",
+  "sha256": "afd0acac8b88977c47bc4093bc0471a531aff27c64fc6b2140d57c1ce2d14c28"
+ },
+ "data/raw/multi/arabic/Driving_Test_test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Driving%20Test/test.csv",
+  "sha256": "44f4faac18b884755e84caed2f90338a8ed216dcafbc5c6589ebd1fe0e22c121"
+ },
+ "data/raw/multi/arabic/Economics__High_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Economics%20%28High%20School%29/test.csv",
+  "sha256": "a75334170f2b3602036907e5f4c3bdc6378442f0964c1840501bb089d0645287"
+ },
+ "data/raw/multi/arabic/Economics__Middle_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Economics%20%28Middle%20School%29/test.csv",
+  "sha256": "bb002d695113d79b53e32804255e47b7b5ca4842ec4a225f1a668418fd295890"
+ },
+ "data/raw/multi/arabic/Economics__University__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Economics%20%28University%29/test.csv",
+  "sha256": "1e621dd3a2440b73e7fcc1475a2142d9d576cb8d04fed053e02aa360b43c31a9"
+ },
+ "data/raw/multi/arabic/General_Knowledge__Middle_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/General%20Knowledge%20%28Middle%20School%29/test.csv",
+  "sha256": "c1c2652d7470aad2f1f30e0e23e83f1cc492cf7a70dbbb1647bcee39ff2059ca"
+ },
+ "data/raw/multi/arabic/General_Knowledge__Primary_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/General%20Knowledge%20%28Primary%20School%29/test.csv",
+  "sha256": "7d51269fb90eb5baa90cccbbbe4d53e74ed9f1a081b7daa0708f155179b46761"
+ },
+ "data/raw/multi/arabic/General_Knowledge_test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/General%20Knowledge/test.csv",
+  "sha256": "fc8428e1a523e7612db4865137871f33b49bc8e0fc0cdb33d8f7df60140c2305"
+ },
+ "data/raw/multi/arabic/Geography__High_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Geography%20%28High%20School%29/test.csv",
+  "sha256": "6c128ea340acbfa3afbdd8ce9ad406f19a3349273588e87e8182818f2e600488"
+ },
+ "data/raw/multi/arabic/Geography__Middle_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Geography%20%28Middle%20School%29/test.csv",
+  "sha256": "e23e0f3276c0b2a85aa4c5a905419f48143b849ba7dcc27f4a3626210c7ab990"
+ },
+ "data/raw/multi/arabic/Geography__Primary_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Geography%20%28Primary%20School%29/test.csv",
+  "sha256": "bf08e4f70288b64b6e9f745c1ab79549efb19f32bf0ff0cf73cc1b97b3988a96"
+ },
+ "data/raw/multi/arabic/History__High_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/History%20%28High%20School%29/test.csv",
+  "sha256": "ae5b8278c7d8cdcdf5d1c02d447917ea656ad3af69774813b69e027193e1a06a"
+ },
+ "data/raw/multi/arabic/History__Middle_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/History%20%28Middle%20School%29/test.csv",
+  "sha256": "6a2255fb9485c4454eb3d1e78913872f8e7b6016e14ef8c2105f36996b55b149"
+ },
+ "data/raw/multi/arabic/History__Primary_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/History%20%28Primary%20School%29/test.csv",
+  "sha256": "1cec6bc5eb6688631d293a32ceeeee35b4d04299d1e671aa82da86883ad1daa4"
+ },
+ "data/raw/multi/arabic/Islamic_Studies__High_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Islamic%20Studies%20%28High%20School%29/test.csv",
+  "sha256": "a6bdd8bcb7291c8bfdd3a61585f84e836a6e61c24f0084d4eb7bfb1be35eb8fd"
+ },
+ "data/raw/multi/arabic/Islamic_Studies__Middle_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Islamic%20Studies%20%28Middle%20School%29/test.csv",
+  "sha256": "56391ebc2b6b17cad7acce86a987169bb3aafb81a091100a5ff7e75060ae6f9b"
+ },
+ "data/raw/multi/arabic/Islamic_Studies__Primary_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Islamic%20Studies%20%28Primary%20School%29/test.csv",
+  "sha256": "39dee84007a76f2678f5b73f4dc6b5d9e4f1e41177b25f02334248d0f414f08f"
+ },
+ "data/raw/multi/arabic/Islamic_Studies_test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Islamic%20Studies/test.csv",
+  "sha256": "21659fc6713718a824c4edd5459c6f1734b0d8044f87400a6d98fec6fea49cbf"
+ },
+ "data/raw/multi/arabic/Law__Professional__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Law%20%28Professional%29/test.csv",
+  "sha256": "bdbea554568c23d75685c7a59cb2faed16001b703857a2a7958f1d07cf625a5b"
+ },
+ "data/raw/multi/arabic/Management__University__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Management%20%28University%29/test.csv",
+  "sha256": "afab38ad417170f15c97bc8e7576d4ec7d0943e39a405b86748a8e4676229811"
+ },
+ "data/raw/multi/arabic/Math__Primary_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Math%20%28Primary%20School%29/test.csv",
+  "sha256": "5bf483bef936c4b456b4ed80cd04c88852a04d76e492f2cb7e80b843c879b1a9"
+ },
+ "data/raw/multi/arabic/Natural_Science__Middle_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Natural%20Science%20%28Middle%20School%29/test.csv",
+  "sha256": "20c70af2857320b277090f1b9af61036c18a82e4baa508afdd8e6e3c22aa015f"
+ },
+ "data/raw/multi/arabic/Natural_Science__Primary_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Natural%20Science%20%28Primary%20School%29/test.csv",
+  "sha256": "9c01973e8d64a546d88b506f4016714eb26d025b44228e27ab5b4b1153652213"
+ },
+ "data/raw/multi/arabic/Philosophy__High_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Philosophy%20%28High%20School%29/test.csv",
+  "sha256": "e96bea20bb710795efb46c5887b4e63064cab6edf0a0536c4699ad2d6fca5131"
+ },
+ "data/raw/multi/arabic/Physics__High_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Physics%20%28High%20School%29/test.csv",
+  "sha256": "6518f41a6d905c9d495b6b48b7c640ed84073f5f7e98535553a0a9ec36ca7c40"
+ },
+ "data/raw/multi/arabic/Political_Science__University__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Political%20Science%20%28University%29/test.csv",
+  "sha256": "3b8ba9bc2b12c503011d694c5dba4c010f7db81121e0ef4f37e0b4c15cae221a"
+ },
+ "data/raw/multi/arabic/Social_Science__Middle_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Social%20Science%20%28Middle%20School%29/test.csv",
+  "sha256": "b684ce25dc4b6de06ac7c046f096bb1a1d1621617222564086f3b958b05f2f3b"
+ },
+ "data/raw/multi/arabic/Social_Science__Primary_School__test.csv": {
+  "url": "https://huggingface.co/datasets/MBZUAI/ArabicMMLU/resolve/main/Social%20Science%20%28Primary%20School%29/test.csv",
+  "sha256": "cd715f4b2b39bd1b6148b1f2ce4a19b8749136e676b8dd9c714014102079e748"
+ },
+ "data/raw/multi/gaokao_2010-2022_Biology_MCQs.json": {
+  "url": "https://raw.githubusercontent.com/OpenLMLab/GAOKAO-Bench/main/Data/Objective_Questions/2010-2022_Biology_MCQs.json",
+  "sha256": "acdef3dd5b47ab76d27032b5be60bbf0dc7bb6080b34f46a2eff76c226e4974a"
+ },
+ "data/raw/multi/gaokao_2010-2022_Chemistry_MCQs.json": {
+  "url": "https://raw.githubusercontent.com/OpenLMLab/GAOKAO-Bench/main/Data/Objective_Questions/2010-2022_Chemistry_MCQs.json",
+  "sha256": "c14257debeedb4f11122a17d2f92ce8d7cc1713041f5b038f58f4c85739be35e"
+ },
+ "data/raw/multi/gaokao_2010-2022_History_MCQs.json": {
+  "url": "https://raw.githubusercontent.com/OpenLMLab/GAOKAO-Bench/main/Data/Objective_Questions/2010-2022_History_MCQs.json",
+  "sha256": "c662fa9bea0663e346b1107134fd708a7b4353e60925185b9a0d6fe41e8a4f14"
+ },
+ "data/raw/multi/gaokao_2010-2022_Physics_MCQs.json": {
+  "url": "https://raw.githubusercontent.com/OpenLMLab/GAOKAO-Bench/main/Data/Objective_Questions/2010-2022_Physics_MCQs.json",
+  "sha256": "bb0287539421c3d9317f5be3afe7ca0a752da15605f20bf1b4cfc002029532aa"
+ },
+ "data/raw/multi/gaokao_2010-2022_Political_Science_MCQs.json": {
+  "url": "https://raw.githubusercontent.com/OpenLMLab/GAOKAO-Bench/main/Data/Objective_Questions/2010-2022_Political_Science_MCQs.json",
+  "sha256": "aab7ab67f5bd94a796a8d80c0e3f994fce2a6bfe8893d07835fa9ef34ede32bd"
+ },
+ "data/raw/multi/mmlu_all_test.parquet": {
+  "url": "https://huggingface.co/datasets/cais/mmlu/resolve/main/all/test-00000-of-00001.parquet",
+  "sha256": "74a41822ce7d3def56e1682f958469c04642a5336a5ce912fa375fdb90fb25d7"
+ },
+ "data/raw/multi/mmlu_all_validation.parquet": {
+  "url": "https://huggingface.co/datasets/cais/mmlu/resolve/main/all/validation-00000-of-00001.parquet",
+  "sha256": "66cdf0b090ccb657d18d13cd81e31fdc55c3467da9642ffb178653268a97c8ef"
+ },
+ "data/raw/multi/tr/dev_TurkishMMLU_Biology.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/dev/TurkishMMLU_Biology.json",
+  "sha256": "ce7a74de87a7dec04b119f0389d12dd1718d9d7a8dac37dc43c101f16cab8278"
+ },
+ "data/raw/multi/tr/dev_TurkishMMLU_Chemistry.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/dev/TurkishMMLU_Chemistry.json",
+  "sha256": "95ecd033d8ed980d174101d546fe310e9e3cf1cc089d46350467cfa993517d80"
+ },
+ "data/raw/multi/tr/dev_TurkishMMLU_Geography.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/dev/TurkishMMLU_Geography.json",
+  "sha256": "1a7c33b33dff322fae081a408c6769b2e0180de02eed9cfc0f5317bee1927201"
+ },
+ "data/raw/multi/tr/dev_TurkishMMLU_History.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/dev/TurkishMMLU_History.json",
+  "sha256": "970fd8d6d654fb536cdc88ba7265018184e3aba15976de2f0a14a1ae857a0a94"
+ },
+ "data/raw/multi/tr/dev_TurkishMMLU_Mathematics.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/dev/TurkishMMLU_Mathematics.json",
+  "sha256": "bd0e165eb27ea4094e8a923893b0394de5745f7ab3df45483e9d3a76618a2756"
+ },
+ "data/raw/multi/tr/dev_TurkishMMLU_Philosophy.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/dev/TurkishMMLU_Philosophy.json",
+  "sha256": "5360685816383130519e893cda489414f6b52882c650692a46ebe693e34da23d"
+ },
+ "data/raw/multi/tr/dev_TurkishMMLU_Physics.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/dev/TurkishMMLU_Physics.json",
+  "sha256": "dbc193b2e223194de7e28e4ffd73727dbf4f0b00601f34422467e680269d4fc2"
+ },
+ "data/raw/multi/tr/test_TurkishMMLU_Biology.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/test/TurkishMMLU_Biology.json",
+  "sha256": "4dccd7fd25e810fb08f9bde8e09fdff6fab9b34620d495ac70dc9866ca69e25e"
+ },
+ "data/raw/multi/tr/test_TurkishMMLU_Chemistry.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/test/TurkishMMLU_Chemistry.json",
+  "sha256": "1cd6acb3d60d687771e346425bde4a413da0393151c1d64fdb17f8955f36187b"
+ },
+ "data/raw/multi/tr/test_TurkishMMLU_Geography.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/test/TurkishMMLU_Geography.json",
+  "sha256": "89a6ba2a22e86e9ee862e23f77f5e71ce83a28fface3aa90b0ae3aa96178bc8d"
+ },
+ "data/raw/multi/tr/test_TurkishMMLU_History.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/test/TurkishMMLU_History.json",
+  "sha256": "c4f2be738786a020d0bb50e8f6c9f36e99c9aeab7fadc177fcc5beb128eb7d5b"
+ },
+ "data/raw/multi/tr/test_TurkishMMLU_Mathematics.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/test/TurkishMMLU_Mathematics.json",
+  "sha256": "6a835e6272bb3065df9bd21193ccc296e81710340db14c22fef183a4840e49d5"
+ },
+ "data/raw/multi/tr/test_TurkishMMLU_Philosophy.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/test/TurkishMMLU_Philosophy.json",
+  "sha256": "5dddc54b66f581c1645bc982527dd90cd86cef2738836e2ee5003c5f1c46a5b8"
+ },
+ "data/raw/multi/tr/test_TurkishMMLU_Physics.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/test/TurkishMMLU_Physics.json",
+  "sha256": "6cd2cefc15bef936664915a757a9980c5142a06ca68203bba8d8e979790c2110"
+ },
+ "data/raw/multi/tr/turkishmmlu_sub.json": {
+  "url": "https://huggingface.co/datasets/AYueksel/TurkishMMLU/resolve/main/turkishmmlu_sub.json",
+  "sha256": "737b19f24c930eb07a7a3b94a7e5d5756c31c70d6de0f3fd3e3443b9df807b4d"
+ },
+ "data/raw/public/agieval_gaokao_geography.jsonl": {
+  "url": "https://raw.githubusercontent.com/ruixiangcui/AGIEval/main/data/v1_1/gaokao-geography.jsonl",
+  "sha256": "1170cb39171d6dfc35bd52a52505e5a120cf400abc697f282d0739db6181713b"
+ },
+ "data/raw/public/gaokao_bench_2010_2022_geography_mcqs.json": {
+  "url": "https://raw.githubusercontent.com/OpenLMLab/GAOKAO-Bench/main/Data/Objective_Questions/2010-2022_Geography_MCQs.json",
+  "sha256": "cd69dc502f5e0c96b94d5d67b5f8a2811a799a18b0ba3fd16da6a15e964b7d03"
+ },
+ "data/raw/setvalued/jec-qa-kd.jsonl": {
+  "url": "https://raw.githubusercontent.com/ruixiangcui/AGIEval/main/data/v1/jec-qa-kd.jsonl",
+  "sha256": "e3c66086b3f02eb6bc38e6a811d625246e25daa65488354c23bd9df38df5319e"
+ },
+ "data/raw/setvalued/jec-qa-ca.jsonl": {
+  "url": "https://raw.githubusercontent.com/ruixiangcui/AGIEval/main/data/v1/jec-qa-ca.jsonl",
+  "sha256": "580550e17856d8b08cf8b0b821fbc0f872b51f0e174bebfa332cf1ee96df4259"
+ },
+ "data/raw/setvalued/tweet_emotion-validation.parquet": {
+  "url": "https://huggingface.co/api/datasets/cardiffnlp/super_tweeteval/parquet/tweet_emotion/validation/0.parquet",
+  "sha256": "373b95ec95a4da803685988a26e4bd10cf6d5f6e2a58329840f1c005ffe94f35"
+ },
+ "data/raw/setvalued/tweet_emotion-test.parquet": {
+  "url": "https://huggingface.co/api/datasets/cardiffnlp/super_tweeteval/parquet/tweet_emotion/test/0.parquet",
+  "sha256": "7a5528eab18729ad3bf199a7e07aeddb38d51fc0ca9690a4d077b1b8ed097b16"
+ },
+ "data/raw/setvalued/tweet_topic-validation.parquet": {
+  "url": "https://huggingface.co/api/datasets/cardiffnlp/super_tweeteval/parquet/tweet_topic/validation/0.parquet",
+  "sha256": "816b402b8a847021c5df407cf43b3e68d89b13787cca45926d976a72072732b9"
+ },
+ "data/raw/setvalued/tweet_topic-test.parquet": {
+  "url": "https://huggingface.co/api/datasets/cardiffnlp/super_tweeteval/parquet/tweet_topic/test/0.parquet",
+  "sha256": "dfea22b1060d40f447389cf298aef05269e896fc7b72f0a97cdc397c38d4c896"
+ }
+}
